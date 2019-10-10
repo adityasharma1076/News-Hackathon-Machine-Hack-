@@ -8,6 +8,9 @@ If there is an error viewing the notebook file please follow the steps given bel
 4. Click "GO"
 
 Main File to view: MachineHack.ipynb
+
 Submission folder consists of all the tested submission with accuracy of more than 98%
+
 Highest Accuracy achieved : 98.67 %
+
 Ranked 27th all over India in this Hacakthon.
